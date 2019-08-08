@@ -1,2 +1,2 @@
 # Projects
-It's Graphics mini project(Taj Mahal) written in c++
+It's Computer Graphics mini project(Taj Mahal) code written in c++
